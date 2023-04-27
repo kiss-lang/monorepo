@@ -1,0 +1,3 @@
+-lib kiss
+--main ExternMain
+-python ExternMain.py
