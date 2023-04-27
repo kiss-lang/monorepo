@@ -1,0 +1,8 @@
+(import flixel.FlxState)
+(extends FlxState)
+
+(method &override :Void create []
+    (super.create))
+
+(method &override :Void update [:Float elapsed]
+    (super.update elapsed))

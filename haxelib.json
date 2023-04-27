@@ -1,0 +1,18 @@
+{
+	"name": "kiss-flixel",
+	"description": "",
+	"classPath": "src/",
+	"dependencies": {
+		"kiss": "",
+		"kiss-tools": "",
+		"flixel": ""
+	},
+	"url": "https://github.com/NQNStudios/kisslang",
+	"contributors": [
+		"NQNStudios"
+	],
+	"version": "0.0.0",
+	"releasenote": "",
+	"tags": [],
+	"license": "LGPL"
+}
