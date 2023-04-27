@@ -1,0 +1,5 @@
+(function myFun []
+    (localVar something 5)
+    )
+
+// This comment used to cause a hard-to-track-down error!

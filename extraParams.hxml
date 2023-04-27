@@ -1,0 +1,2 @@
+-w -WUnusedPattern
+--macro kiss.KissFrontend.use()
