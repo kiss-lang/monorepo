@@ -1,0 +1,6 @@
+(prop &mut :FlxDirector director)
+
+(method &override :Void create []
+    (set destroySubStates false)
+    (super.create)
+    (set director (new FlxDirector)))
